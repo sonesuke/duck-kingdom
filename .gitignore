@@ -163,3 +163,8 @@ cython_debug/
 
 sandbox/*
 !sandbox/.gitkeep
+
+
+# Added by cargo
+
+/target

@@ -1,0 +1,8 @@
+[package]
+name = "duck-kingdom"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+duckdb = { version = "1.0.0", features = ["bundled"] }
+uuid = { version = "1.10.0", features = ["v4"] }
